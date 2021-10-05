@@ -3,3 +3,4 @@ This text is inserted from dir no1 and branch b01
 added from a local branch
 
 added from a new computer
+another file added from my new computer
